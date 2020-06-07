@@ -1176,6 +1176,7 @@ CN卡通,p8p://0198.02686.cc:16871/5d1a69b3000e2d1e11bddbfa8c491af8.ts
 东森幼幼,p8p://0198.02686.cc:16871/5d416a580007131b7660d3322e8b0a5f.ts
 大爱二台,p8p://0198.02686.cc:16871/5d1a69b8000386b311bdecc8d9c8c96a.ts
 亚洲旅游台 HD,p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
+CNN1,p9p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts
 广东代理,#genre#
 1.超高清 4K,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/cctv/2000266303.m3u8
 2.CCTV 1,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/cctv/2000210103.m3u8
