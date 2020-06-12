@@ -1585,4 +1585,63 @@ CETV1HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8
 126,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226635/1.m3u8
 127,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226638/1.m3u8
 128,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226642/1.m3u8
-
+测试频道,#genre#
+台视新闻,http://ff.twtvcdn.com:8080/live/1/49176b339ae96ba32d39ac50817d873a/index.m3u8
+TVBS新闻,http://ff.twtvcdn.com:8080/live/2/5cd5a23dce984563f38db3a6ca18b252/index.m3u8
+中天新闻,http://ff.twtvcdn.com:8080/live/3/693a23881c380726c0d9bb32d5fbcc54/index.m3u8
+三立LIVE新闻,http://ff.twtvcdn.com:8080/live/4/644fac2e1760b8e7c90476361474bf94/index.m3u8
+华视新闻,http://ff.twtvcdn.com:8080/live/6/eb052911c2efabe21d34c7c0316be5ab/index.m3u8
+中视新闻,http://ff.twtvcdn.com:8080/live/7/e970f0c2039ea11f3004e9d1337f192b/index.m3u8
+寰宇新闻,http://ff.twtvcdn.com:8880/live/299/27b85716e4ab295dd9f8de93f1bfa42f/index.m3u8
+寰宇新闻二台,http://ff.twtvcdn.com:8880/live/362/6c5a2464fa4be902b5d42826c50e9776/index.m3u8
+非凡新闻,http://ff.twtvcdn.com:8880/live/314/6a88cb54c844e8d66de60078f3f33466/index.m3u8
+年代新闻,http://ff.twtvcdn.com:8080/live/236/fabd4d49fd900872fc6d22ad1266ecd3/index.m3u8
+壹电视新闻,http://ff.twtvcdn.com:8080/live/303/5af17582c5e39ae6e7c12f5d639e3454/index.m3u8
+民视新闻,http://ff.twtvcdn.com:8080/live/13/2dfd422afc13d19377812e11e2282dbb/index.m3u8
+东森新闻,http://ff.twtvcdn.com:8080/live/9/76e30d5867f7a7035842270a98c1ce06/index.m3u8
+东森财*新闻,http://ff.twtvcdn.com:8080/live/12/6ed973ec728be91dbb8e066a22334dc6/index.m3u8
+TVB翡翠,http://f8.twtvcdn.com:8080/live/390/eabc404f7d8125fb483d9ac3b3a3eb4a/index.m3u8
+TVB翡翠备,http://f7.twtvcdn.com:8080/live/30/f2dd568467c02627eae149b09f82ca72/index.m3u8
+TVB明珠,http://f8.twtvcdn.com:8080/live/391/8b2e6e6e1d3441e0981d64d822c92a44/index.m3u8
+无线新闻,http://f8.twtvcdn.com:8080/live/394/c8a9c9297013e64dbc9db5c171cc5a94/index.m3u8
+无线新闻备,http://f7.twtvcdn.com:8080/live/401/eb86146424af1676d0b546d02ba8c522/index.m3u8
+有线新闻,http://f8.twtvcdn.com:8080/live/395/4e73c6f97669d4e26281935f78d874b0/index.m3u8
+有线新闻备,http://f8.twtvcdn.com:8080/live/19/04c14662c868c8ef1a3516641ecefccd/index.m3u8
+TVB J5,http://f8.twtvcdn.com:8080/live/71/6820171e96d924644c081320d0062962/index.m3u8
+TVBJ5,http://f7.twtvcdn.com:8080/live/393/515ea744279e94c4ad732abec080bc73/index.m3u8
+TVB J2,http://f8.twtvcdn.com:8080/live/72/cdf3ab8b4eac307b08776b73104365ae/index.m3u8
+TVBJ2,http://f7.twtvcdn.com:8080/live/392/6b4c4e315cf8cd85e6aea44178f7e1dd/index.m3u8
+深圳旁边开电视,http://f8.twtvcdn.com:8080/live/17/d062313142a1db6cd95a928e3ec95b87/index.m3u8
+NOW新闻,http://f8.twtvcdn.com:8080/live/396/50c97712d181059f3fdb4113479fc7e4/index.m3u8
+NOW直播,http://f8.twtvcdn.com:8080/live/400/b281e7b813882f0b074a7897e7fd7120/index.m3u8
+民视,http://104.23.130.67:8080/live/336/137c0d4219d418072e9be57b4663b6a6/index.m3u8
+公视,http://ff.twtvcdn.com:8080/live/361/8b11f9849bab6b3b78665edf8c778368/index.m3u8
+华视,http://ff.twtvcdn.com:8080/live/327/3946d7d6f8a01395c249524a52c26b82/index.m3u8
+中视,http://ff.twtvcdn.com:8080/live/333/9a93fd17c2e1a21f22bbf26de3c27815/index.m3u8
+台视,http://ff.twtvcdn.com:8080/live/326/6a57f4fd5372b57b3b244a4b704126ac/index.m3u8
+三立都会,http://ff.twtvcdn.com:8080/live/310/71cfd22bc1b0ef88cc5160caa9c2e6d6/index.m3u8
+三立福建旁边,http://ff.twtvcdn.com:8080/live/309/c7335f82c58b52b73865f8172715fc12/index.m3u8
+纬来日本,http://ff.twtvcdn.com:8080/live/337/1638792b27bf351e447246bf53a23368/index.m3u8
+卫视中文,http://ff.twtvcdn.com:8080/live/342/0fda2faa2e3161d119961e8ccc6a2e2f/index.m3u8
+八大综合,http://ff.twtvcdn.com:8080/live/90/30137b6a61a5310c8bdbab3f9e93df81/index.m3u8
+八大第一,http://ff.twtvcdn.com:8080/live/60/46a31c8f5d7bc3f3f2c8b5f872317438/index.m3u8
+中天娱乐,http://ff.twtvcdn.com:8080/live/324/f4bc03734c745be500d615e3bc36ba24/index.m3u8
+八大戏剧,http://ff.twtvcdn.com:8080/live/100/b1c1bbf0c1920d179c1242c62638f1d2/index.m3u8
+东森综合,http://ff.twtvcdn.com:8080/live/372/4828ca069a2c6ef98da06fc8bcda3344/index.m3u8
+八大娱乐,http://ff.twtvcdn.com:8080/live/80/1a1964363b7899bea55f420581fb055e/index.m3u8
+纬来综合,http://ff.twtvcdn.com:8080/live/340/3a8266b7160bfea6b85ed4dbbe490be8/index.m3u8
+纬来育乐,http://ff.twtvcdn.com:8080/live/338/6c02775a308aa49784f33cb68e2c3318/index.m3u8
+靖天综合,http://ff.twtvcdn.com:8880/live/62/f8642fc8d5cfa906b846d48fcab0b702/index.m3u8
+靖天日本,http://ff.twtvcdn.com:8880/live/63/d73b716feb0076f621e4ac5c5fd24a32/index.m3u8
+TVBS,http://ff.twtvcdn.com:8880/live/88/f3b6d6d7656312adf7423cac28614ab4/index.m3u8
+TVBS精采,http://ff.twtvcdn.com:8880/live/66/cf8ae706895534d9f23fe1e182acadce/index.m3u8
+民视福建旁边,http://ff.twtvcdn.com:8880/live/36/73c3a14ff829c62751cf32280decb76f/index.m3u8
+民视福建旁边,http://ff.twtvcdn.com:8880/live/68/19314e65fc81e4f4ee758c73d2cc3764/index.m3u8
+民视第一台,http://ff.twtvcdn.com:8880/live/34/f738ce05fec7e5771a8357dff09f9540/index.m3u8
+中视菁采台,http://ff.twtvcdn.com:8880/live/55/a9053ef91671beb2ea19a826bf5ab29e/index.m3u8
+CCTV4美洲,http://player.ioioz.com/1786/0/mg/mg1m3u8.php?id=cctv4mzfhd
+CCTV4欧洲,http://player.ioioz.com/1786/0/mg/mg1m3u8.php?id=cctv4ozfhd
+CEC 国家健康频道,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
+CEC 马娜国际,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+CEC 国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+CEC 汉语文化频道,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
