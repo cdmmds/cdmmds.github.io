@@ -1,4 +1,5 @@
 成都1,#genre#
+test,rtsp://182.139.235.40/PLTV/88888895/224/3221228504/658582939.smil
 CCTV-1高清,http://ayolee.com:5253/udp/239.93.0.184:5140
 CCTV-2高清,http://ayolee.com:5253/udp/239.93.1.23:6000
 CCTV-3高清,http://ayolee.com:5253/udp/239.93.1.11:2223
