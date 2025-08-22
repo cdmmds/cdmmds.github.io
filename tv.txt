@@ -1,5 +1,4 @@
 测试更新1,#genre#
-
 CCTV1,http://116.232.1.47:6000/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV2,http://116.232.1.47:6000/tsfile/live/0001_2.m3u8?key=txiptv
 CCTV3,http://116.232.1.47:6000/tsfile/live/0001_3.m3u8?key=txiptv
@@ -7763,6 +7762,17 @@ UNDEFINED 13235,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/132
 UNDEFINED 13236,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/13236.mp4
 UNDEFINED 13237,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/13237.mp4
 UNDEFINED 13238,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/13238.mp4
+极限,http://live.urren.net:80/live/ca992f0f5fb2b7c99a823177308bd3b4.flv
+happy,http://live.urren.net:80/live/1cb427581f3c8587bd1b9cf83ba27010.flv
+香蕉,http://live.urren.net:80/live/6ce91366a71c01c7c8e2c41e51a8590f.flv
+惊艳,http://live.urren.net:80/live/40e271fa6d2269a61091a3c3ce56f154.flv
+潘朵拉,http://live.urren.net:80/live/efeba952987b3386cea51bb8de5b5163.flv
+彩虹电影,http://live.urren.net:80/live/1a3379adcd24608e4095f4648b59a24a.flv
+K频道,http://live.urren.net:80/live/f6138882f73fe5fe44bd4cde6396520a.flv
+E频道,http://live.urren.net:80/live/a178f2d2b03ffbb5feeae97f41217dd8.flv
+松视3,http://live.urren.net:80/live/fb8b44b311f9d73be1d0c91e93c5fd16.flv
+松视1,http://live.urren.net:80/live/6de9a8c5d19ba3b606b6265f419df847.flv
+
 ??密码,#genre#
 
 联系技术员,https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
