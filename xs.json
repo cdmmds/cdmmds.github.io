@@ -19254,53 +19254,6 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "⭐自制",
-    "bookSourceName": "⭐卡夜阁",
-    "bookSourceType": 0,
-    "bookSourceUrl": "http://m.kygnew.com",
-    "customOrder": 0,
-    "enabled": true,
-    "enabledCookieJar": false,
-    "enabledExplore": false,
-    "enabledReview": false,
-    "header": "",
-    "lastUpdateTime": 1680695347489,
-    "respondTime": 2614,
-    "ruleBookInfo": {
-      "name": "h1@text"
-    },
-    "ruleContent": {
-      "content": "#content@html",
-      "nextContentUrl": "",
-      "replaceRegex": ""
-    },
-    "ruleExplore": {
-      "author": "",
-      "bookList": "",
-      "lastChapter": "",
-      "name": ""
-    },
-    "ruleReview": {},
-    "ruleSearch": {
-      "author": "class.author@text##作者：",
-      "bookList": "class.bookbox",
-      "bookUrl": "a@href##^##",
-      "coverUrl": "img@src",
-      "lastChapter": "class.update@tag.a@text",
-      "name": "h4@text"
-    },
-    "ruleToc": {
-      "chapterList": "dd",
-      "chapterName": "a@text",
-      "chapterUrl": "a@href",
-      "nextTocUrl": "",
-      "preUpdateJs": ""
-    },
-    "searchUrl": "http://m.kygnew.com/dihviudxhgidusghi.php?ie=gbk&s=5256649918672294880&q={{key}}",
-    "weight": 0
-  },
-  {
-    "bookSourceComment": "",
     "bookSourceName": "海棠书屋",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.haitangshuwu.info",
@@ -46082,63 +46035,6 @@
     "weight": 0
   },
   {
-    "bookSourceComment": "",
-    "bookSourceGroup": "💥优质",
-    "bookSourceName": "⚡笔趣阁c25",
-    "bookSourceType": 0,
-    "bookSourceUrl": "http://www.ibiqu.net",
-    "bookUrlPattern": "http://www.ibiqu.net/book/\\d+/",
-    "customOrder": 20557063,
-    "enabled": true,
-    "enabledCookieJar": false,
-    "enabledExplore": true,
-    "enabledReview": false,
-    "exploreUrl": "",
-    "lastUpdateTime": 1678813741579,
-    "loginUrl": "",
-    "respondTime": 740,
-    "ruleBookInfo": {
-      "author": "[property=og:novel:author]@content",
-      "coverUrl": "[property=og:image]@content",
-      "init": "",
-      "intro": "[property=og:description]@content",
-      "kind": "[property=og:novel:update_time]@content&&\n[property=og:novel:category]@content&&\n[property=og:novel:status]@content",
-      "lastChapter": "[property=og:novel:latest_chapter_name]@content##免费章节 |正文卷 |正文 |VIP章节 ",
-      "name": "[property=og:novel:book_name]@content##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|小说|笔趣阁",
-      "wordCount": ""
-    },
-    "ruleContent": {
-      "content": "id.content@html##笔趣阁.*最新章节！|最快更新.*最新章节！"
-    },
-    "ruleExplore": {
-      "author": "",
-      "bookList": "",
-      "bookUrl": "",
-      "coverUrl": "",
-      "intro": "",
-      "kind": "",
-      "lastChapter": "",
-      "name": ""
-    },
-    "ruleSearch": {
-      "author": "tag.td.2@text",
-      "bookList": "class.grid@tag.tr",
-      "bookUrl": "tag.td.0@tag.a@href",
-      "coverUrl": "",
-      "kind": "tag.td.4@text&&\ntag.td.5@text",
-      "lastChapter": "tag.td.1@tag.a@text##免费章节 |正文卷 |正文 |VIP章节 ",
-      "name": "tag.td.0@tag.a@text",
-      "wordCount": "tag.td.3@text"
-    },
-    "ruleToc": {
-      "chapterList": "id.list@tag.dd",
-      "chapterName": "tag.a@text",
-      "chapterUrl": "tag.a@href"
-    },
-    "searchUrl": "http://www.ibiqu.net/modules/article/search.php?searchkey={{key}}",
-    "weight": 0
-  },
-  {
     "bookSourceComment": "https://www.biqugexs.app/",
     "bookSourceGroup": "言情,💥优质",
     "bookSourceName": "⚡笔趣阁c26",
@@ -46449,63 +46345,6 @@
       "chapterUrl": "tag.a@href"
     },
     "searchUrl": "https://www.ibiquge.net/search.html?name={{key}}",
-    "weight": 0
-  },
-  {
-    "bookSourceComment": "",
-    "bookSourceGroup": "💥优质",
-    "bookSourceName": "⚡笔趣阁c34",
-    "bookSourceType": 0,
-    "bookSourceUrl": "http://www.ibiqu.net/",
-    "bookUrlPattern": "http://www.ibiqu.net/book/\\d+/",
-    "customOrder": 20557078,
-    "enabled": true,
-    "enabledCookieJar": false,
-    "enabledExplore": true,
-    "enabledReview": false,
-    "exploreUrl": "",
-    "lastUpdateTime": 1678813831369,
-    "loginUrl": "",
-    "respondTime": 2489,
-    "ruleBookInfo": {
-      "author": "[property=og:novel:author]@content",
-      "coverUrl": "[property=og:image]@content",
-      "init": "",
-      "intro": "[property=og:description]@content",
-      "kind": "[property=og:novel:update_time]@content&&\n[property=og:novel:category]@content&&\n[property=og:novel:status]@content",
-      "lastChapter": "[property=og:novel:latest_chapter_name]@content##免费章节 |正文卷 |正文 |VIP章节 ",
-      "name": "[property=og:novel:book_name]@content##\\（.*|\\(.*|免费阅读|全文.*阅读|最新章节|小说|笔趣阁",
-      "wordCount": ""
-    },
-    "ruleContent": {
-      "content": "id.content@html##笔趣阁.*最新章节！|最快更新.*最新章节！"
-    },
-    "ruleExplore": {
-      "author": "",
-      "bookList": "",
-      "bookUrl": "",
-      "coverUrl": "",
-      "intro": "",
-      "kind": "",
-      "lastChapter": "",
-      "name": ""
-    },
-    "ruleSearch": {
-      "author": "tag.td.2@text",
-      "bookList": "class.grid@tag.tr",
-      "bookUrl": "tag.td.0@tag.a@href",
-      "coverUrl": "",
-      "kind": "tag.td.4@text&&\ntag.td.5@text",
-      "lastChapter": "tag.td.1@tag.a@text##免费章节 |正文卷 |正文 |VIP章节 ",
-      "name": "tag.td.0@tag.a@text",
-      "wordCount": "tag.td.3@text"
-    },
-    "ruleToc": {
-      "chapterList": "id.list@tag.dd",
-      "chapterName": "tag.a@text",
-      "chapterUrl": "tag.a@href"
-    },
-    "searchUrl": "http://www.ibiqu.net/modules/article/search.php?searchkey={{key}}",
     "weight": 0
   },
   {
