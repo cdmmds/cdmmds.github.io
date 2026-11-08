@@ -39,4 +39,4 @@
 39,http://118.122.144.115:8888/newlive/live/hls/39/live.m3u8
 40,http://118.122.144.115:8888/newlive/live/hls/40/live.m3u8
 41,http://118.122.144.115:8888/newlive/live/hls/41/live.m3u8
-
+环宇新闻,http://222.128.55.152:9080/live/xiangjiaoge-hyxw.m3u8
